@@ -1,0 +1,21 @@
+.form {
+    margin-top: 30px;
+}
+
+.input {
+    margin-left: 40px;
+    margin-right: 10px;
+    width: 200px;
+    height: 20px;
+    
+}
+
+.btn {
+    padding: 3px;
+}
+
+.btn:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}

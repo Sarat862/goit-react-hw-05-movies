@@ -1,0 +1,9 @@
+.link_movie {
+    display: inline-block;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.link_movie:hover {
+    color: red;
+}

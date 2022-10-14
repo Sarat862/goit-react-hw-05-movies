@@ -1,0 +1,12 @@
+.link_arrow {
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.link_arrow:hover {
+    background-color: red;
+    color: white;
+}
