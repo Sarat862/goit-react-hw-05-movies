@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/76.db2c2607.chunk.css","mappings":"AAAA,mBACI,aAAc,CACd,UACJ,CCHA,uBACI,YAAa,CACb,sBACJ","sources":["components/Cast/Cast.module.css","components/Loader/Loader.module.css"],"sourcesContent":[".image {\n    display: block;\n    width: 80px;\n}",".loader {\n    display: flex;\n    justify-content: center;\n}"],"names":[],"sourceRoot":""}
